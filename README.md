@@ -1,5 +1,5 @@
 <h1 align="center">
-🚧 🚀 Work in progress | Ig.News - Projeto Chapter III - Ignite 🚀 🚧
+🚧 🚀 Work in progress | Ig.News - Ignite 🚀 🚧
 </h1>
 
 <p align="center">
